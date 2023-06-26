@@ -91,6 +91,7 @@ header h1 {
 
 .slider-image {
 	border: 5px solid #D7CAAA;
+	
 }
 
 .slider-tab {
@@ -121,7 +122,7 @@ header h1 {
 	text-align: center;
 }
 
-.foto img {
+/**/.foto img {
 	display: block;
 	width: 100%;
 }
@@ -325,7 +326,7 @@ header h1 {
 	text-align: justify;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 18px;
 }
 
 .awssld__next {
@@ -426,3 +427,143 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+
+@keyframes wave {
+	0% {
+	  transform: translateY(0);
+	}
+	50% {
+	  transform: translateY(-20px);
+	}
+	100% {
+	  transform: translateY(0);
+	}
+  }
+  
+  .wave-animation {
+	display: flex;
+	justify-content: center;
+  }
+  
+  .wave-animation li {
+	animation-name: wave;
+	animation-duration: 1s;
+	animation-timing-function: ease-in-out;
+	animation-iteration-count: infinite;
+  }
+  
+  .wave-animation li:nth-child(1) {
+	animation-delay: 0s;
+  }
+  
+  .wave-animation li:nth-child(2) {
+	animation-delay: 0.1s;
+  }
+  
+  .wave-animation li:nth-child(3) {
+	animation-delay: 0.2s;
+  }
+  
+  /* Add more delay values dynamically based on the number of skills */
+  .wave-animation li:nth-child(n+4) {
+	animation-delay: calc((var(--index) - 3) * 0.1s);
+  }
+
+  
+  #skills-list,
+#skills-list2 {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+#skills-list li,
+#skills-list2 li {
+  margin: 10px;
+}
+
+
+
+
+.awssld__content {
+	background-color: transparent !important;
+
+  }
+  
+.slider-image-container img {
+	object-fit: contain;
+	width: 100%;
+	height: 100%;
+  }
+
+
+  .linkedin-pulse {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	background-color: rgba(0, 119, 181, 0.3);
+	opacity: 0;
+	transform-origin: center;
+	animation: pulse 1.5s infinite;
+  }
+  
+  @keyframes pulse {
+	0% {
+	  transform: scale(0.9);
+	  opacity: 0;
+	}
+	50% {
+	  transform: scale(1);
+	  opacity: 1;
+	}
+	100% {
+	  transform: scale(0.9);
+	  opacity: 0;
+	}
+  }
+  
+  .linkedin-badge {
+	position: absolute !important;
+	top: 20px;
+	right: 20px;
+
+	z-index: 9999;
+	transition: transform 0.3s ease;
+	
+
+	
+  }
+  
+  .linkedin-badge:hover {
+	transform: scale(1.2);
+}
+
+.test{
+	position: fixed!important;
+	z-index: 9999;
+}
+
+.padding
+{
+	padding-bottom: 20px!important;
+}
+
+
+
+/*
+ <a href="https://www.linkedin.com/in/chetan-raj-58703b27a/" target="_blank" class="github-corner linkedin-badge" aria-label="View source on GitHub">
+      <svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 250 250" style="fill: none; color: #fff; position: absolute; top: -20; border: 0; right: -95; transform: scale(-1, 1) rotateY(180deg); z-index: 9999" aria-hidden="true">
+        <path d="M250,0 L115,130 L130,115 L0,250 L0,0 Z"></path>
+        <path fill="#0076b2" d="M116 3H12a8.91 8.91 0 00-9 8.8v104.42a8.91 8.91 0 009 8.78h104a8.93 8.93 0 009-8.81V11.77A8.93 8.93 0 00116 3z"></path>
+        <path fill="#fff" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 11-10.5 10.49 10.5 10.5 0 0110.5-10.49M50.53 48.73h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z"></path>
+      </svg>
+    </a>
+
+*/
+  

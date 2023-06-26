@@ -28,11 +28,13 @@ class Projects extends Component {
             <span className="portfolio-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
+
+                  
                   <img
-                    src={projects.images[0]}
+                    src={projects.thumbnail}
                     alt="projectImages"
                     height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative' }}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />
@@ -50,7 +52,7 @@ class Projects extends Component {
     return (
       <section id="portfolio">
         <div className="col-md-12">
-          <h1 className="section-title" style={{ color: "black" }}>
+          <h1 className="section-title" style={{ color: "black", fontSize:"20px", margin:"0px 00px 20px 0px" }}>
             <span>{sectionName}</span>
           </h1>
           <div className="col-md-12 mx-auto">

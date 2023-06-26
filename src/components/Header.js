@@ -25,6 +25,7 @@ class Header extends Component {
   }
 
   render() {
+    
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
       this.titles = this.props.sharedData.titles.map(x => [ x.toUpperCase(), 1500 ] ).flat();
@@ -58,21 +59,6 @@ class Header extends Component {
                 uncheckedIcon={
                   <span
                     className="iconify"
-                    data-icon="twemoji:owl"
-                    data-inline="false"
-                    style={{
-                      display: "block",
-                      height: "100%",
-                      fontSize: 25,
-                      textAlign: "end",
-                      marginLeft: "20px",
-                      color: "#353239",
-                    }}
-                  ></span>
-                }
-                checkedIcon={
-                  <span
-                    className="iconify"
                     data-icon="noto-v1:sun-with-face"
                     data-inline="false"
                     style={{
@@ -82,6 +68,22 @@ class Header extends Component {
                       textAlign: "end",
                       marginLeft: "10px",
                       color: "#353239",
+                    }}
+                  ></span>
+                }
+                checkedIcon={
+                  
+                  <span
+                    className="iconify"
+                    data-icon="heroicons:moon-solid"
+                    data-inline="false"
+                    style={{
+                      display: "block",
+                      height: "100%",
+                      fontSize: 25,
+                      textAlign: "end",
+                      marginLeft: "20px",
+                      color: "#ffffff",
                     }}
                   ></span>
                 }

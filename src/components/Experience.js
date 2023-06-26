@@ -7,9 +7,9 @@ import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
 class Experience extends Component {
-  render() {
+  render() { 
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.experience;
+      var sectionName = "qualifications";
       var work = this.props.resumeExperience.map(function (work, i) {
         const technologies = work.technologies;
         const mainTechnologies = work.mainTech;
@@ -28,18 +28,22 @@ class Experience extends Component {
             </Badge>
           );
         });
+        
         return (
+          
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={work.years}
+            date={<span style={{ fontSize: "16px" }}>{work.years}</span>}
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+            
+            icon={<i className={work.icon + " experience-icon"}></i>}
             key={i}
           >
+              
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
               {mainTech}
             </div>
@@ -54,7 +58,25 @@ class Experience extends Component {
               className="vertical-timeline-element-subtitle"
               style={{ textAlign: "left" }}
             >
-              {work.company}
+
+<div className="d-flex align-items-center">
+  <img
+    className="mr-2"
+    height="30px"
+    src={work.logo}
+    alt="Avatar placeholder"
+  />
+  <img
+    className="ml-2"
+    height="20px"
+    width="35px"
+    src={work.country}
+    alt="Avatar placeholder"
+  />
+</div>
+             
+               
+                  
             </h4>
             <div style={{ textAlign: "left", marginTop: "15px" }}>{tech}</div>
           </VerticalTimelineElement>
@@ -67,7 +89,7 @@ class Experience extends Component {
         <div className="col-md-12 mx-auto">
           <div className="col-md-12">
             <h1 className="section-title" style={{ color: "black" }}>
-              <span className="text-black" style={{ textAlign: "center" }}>
+              <span className="text-black" style={{ textAlign: "center", fontSize:"20px", margin:"0px 00px 20px 0px" }}>
                 {sectionName}
               </span>
             </h1>
