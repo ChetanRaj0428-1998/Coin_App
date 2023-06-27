@@ -1,4 +1,4 @@
-<div style="padding:100px;">aksjb </div><img width="60%" align="center" src="test.png" alt="portfolio template mockup"   style= "margin-left:120px;"/> <br/>
+<div style= "margin-left:120px;"><img width="60%" align="center" src="test.png" alt="portfolio template mockup"   /> <br/></div>
 <img height="350px" align="right" src="vid.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
