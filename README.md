@@ -61,5 +61,3 @@ homepage property or json data won't load.
 <a href="https://iconify.design/icon-sets/?query=angular">Iconify Design</a> <br/>
 <a href="https://www.w3docs.com/snippets/css/how-to-create-polaroid-image-with-css.html#">Polaroid effect</a> <br/>
 <a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
-</details>
-<details>
