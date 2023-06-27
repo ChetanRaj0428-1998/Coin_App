@@ -1,4 +1,4 @@
-<img width="75%" align="middle" src="test.png4" alt="portfolio template mockup"  style="background-color: transparent;"/> <br/>
+<img width="75%" align="middle" src="test4.png" alt="portfolio template mockup"  style="background-color: transparent;"/> <br/>
 <img height="350px" align="right" src="vid.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
