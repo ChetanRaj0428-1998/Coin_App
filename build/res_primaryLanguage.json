@@ -1,0 +1,474 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 Hey there, awesome visitors! Welcome to my little corner of the internet! I'm Chetan, a Computer Science Masters graduate and Bachelors graduate - proudly holding multiple degrees like a boss! 🎓💪 I have a deep passion for crafting applications for 💻 desktop, 🌐 web, and 📱 mobile, and I've had a blast working on various projects that showcase my skills and expertise. 💻🚀 So, sit back, relax, and feel free to check out my website! Take a look around and explore what I have to offer. If you're interested in hiring me or have an exciting offer, you can reach me through my social media channels. Let's connect and create something amazing together! ✨🤝",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Coin Vault",
+        "startDate": "2020",
+        "description": "Introducing a mobile app that enables users to effortlessly collect, catalog, and store coins by capturing images and adding coin details. 📸 Explore, filter, update, and delete your collection, while gaining insights into coin statistics. 📊 Your personal coin database, at your fingertips. 💰",
+        "thumbnail": "images/portfolio/coinapp/coin_animated.gif",
+        "images": [
+          "images/portfolio/coinapp/coin_demo.gif",
+          "images/portfolio/coinapp/images/coin 1.png",
+          "images/portfolio/coinapp/images/coin 2.png",
+          "images/portfolio/coinapp/images/coin 3.png" ,
+          "images/portfolio/coinapp/images/coin 4.png",
+          "images/portfolio/coinapp/images/coin 5.png",
+          "images/portfolio/coinapp/images/coin 6.png",
+          "images/portfolio/coinapp/images/coin 7.png" 
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-ionic-original colored",
+            "name": "Ionic"
+          },
+          {
+            "class": "devicon-angularjs-plain colored",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-firebase-plain colored",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-npm-original-wordmark colored",
+            "name": "NPM"
+          },
+          {
+            "class": "devicon-androidstudio-plain colored",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-vscode-plain colored ",
+            "name": "VS Code"
+          },
+          {
+            "class":"images/portfolio/coinapp/logos/cordova.png",
+            "name": "Cordova"
+          }
+        ]
+      },
+      {
+        "title": "Serverless Web Application",
+        "startDate": "2021",
+        "description": "Introducing a captivating website where users can book enchanting unicorn rides. 🦄 Register as a rider and sign in with a verification code sent to your email. Experience flawless and secure hosting, continuous deployment, authentication, backend logic, and database management with AWS cloud services. ☁️",
+        "thumbnail": "images/portfolio/aws/aws_animation.gif",
+        "images": [
+          
+          "images/portfolio/aws/images/aws 1.png",
+          "images/portfolio/aws/images/aws 2.png",
+          "images/portfolio/aws/images/aws 3.png",
+          "images/portfolio/aws/images/aws 4.png",
+          "images/portfolio/aws/images/aws 5.png",
+          "images/portfolio/aws/images/aws 6.png",
+          "images/portfolio/aws/images/aws 7.png",
+          "images/portfolio/aws/images/aws 8.png",
+          "images/portfolio/aws/images/aws 9.png",
+          "images/portfolio/aws/images/aws 10.png"
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/AWS_Cloud",
+        "technologies": [
+          {
+            "class": "images/portfolio/aws/logos/aws.png",
+            "name": "AWS"
+          },
+          {
+            "class": "images/portfolio/aws/logos/lambda.png",
+            "name": "AWS Lambda"
+          },
+          {
+            "class": "images/portfolio/aws/logos/cognito.svg",
+            "name": "Amazon Cognito"
+          },
+          {
+            "class": "images/portfolio/aws/logos/amplify.png",
+            "name": "AWS Amplify"
+          },
+          {
+            "class": "images/portfolio/aws/logos/api_gateway.svg",
+            "name": "Amazon API Gateway"
+          },
+          {
+            "class": "images/portfolio/aws/logos/dynamo.png",
+            "name": "Amazon DynamoDB  "
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          }
+        ],
+        "logos":[
+          "images/portfolio/aws/logos/lambda.png"
+
+        ]
+      },
+      {
+        "title": "Medico Pill Dispenser",
+        "startDate": "2019",
+        "description": "Introducing an innovative IoT project! 🌟💡 Experience the convenience of dispensing medicines with a mobile application connected to an IoT device via Bluetooth. 📱💊 Select medications from a list, describe symptoms, or fill a form for personalized service. Transforming healthcare with technology! 🏥🔬",
+        "thumbnail": "images/portfolio/iot/medico_ani.gif",
+        "images": [
+          
+          "images/portfolio/iot/images/iot_demo.gif",
+          "images/portfolio/iot/images/vid_demo.gif",
+          "images/portfolio/iot/images/iot_demo 1.jpeg",
+          "images/portfolio/iot/images/iot_demo 2.jpeg",
+          "images/portfolio/iot/images/iot_demo 3.jpeg",
+          "images/portfolio/iot/images/iot_demo 4.jpeg",
+          "images/portfolio/iot/images/iot_demo 5.jpeg",
+          "images/portfolio/iot/images/iot_demo 6.jpeg",
+          "images/portfolio/iot/images/iot_demo 7.jpeg",
+          "images/portfolio/iot/images/iot_demo 8.jpeg",
+          "images/portfolio/iot/images/iot_demo 9.jpeg",
+          "images/portfolio/iot/images/iot_demo 10.jpeg"
+
+
+          
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/Mobile-Development/tree/master/Mobile-Development/Medico",
+        "technologies": [
+          {
+            "class": "devicon-ionic-original colored",
+            "name": "Ionic"
+          },
+          {
+            "class": "devicon-angularjs-plain colored",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-arduino-plain colored",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          },
+          {
+            "class":"devicon-sass-original colored",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-npm-original-wordmark colored",
+            "name": "NPM"
+          },
+          {
+            "class": "devicon-androidstudio-plain colored",
+            "name": "Android Studio"
+          },
+          {
+            "class": "devicon-vscode-plain colored ",
+            "name": "VS Code"
+          },
+          {
+            "class":"images/portfolio/iot/logos/cordova.png",
+            "name": "Cordova"
+          },
+          {
+            "class":"images/portfolio/iot/logos/ble.png",
+            "name": "BLE"
+          }
+         
+        ]
+      },
+      {
+        "title": "Portfolio Mobile Application",
+        "startDate": "2018",
+        "description": "Introducing my portfolio mobile application! 📱💼 Built during my early days as an intern, it showcases my skills and expertise using Ionic UI components. Explore my journey and accomplishments in a visually appealing and user-friendly interface. 🚀🎨",
+        "thumbnail": "images/portfolio/mobile_resume/res_ani.gif",
+        "images": [
+          
+          "images/portfolio/mobile_resume/images/res 1.jpg",
+          "images/portfolio/mobile_resume/images/res 2.jpg",
+          "images/portfolio/mobile_resume/images/res 3.jpg",
+          "images/portfolio/mobile_resume/images/res 4.jpg",
+          "images/portfolio/mobile_resume/images/res 5.jpg"
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/Mobile-Development/tree/master/Mobile-Development/myapp",
+        "technologies": [ 
+          {
+          "class": "devicon-ionic-original colored",
+          "name": "Ionic"
+        },
+        {
+          "class": "devicon-angularjs-plain colored",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain colored",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-html5-plain colored",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain colored",
+          "name": "CSS"
+        },
+        {
+          "class":"devicon-sass-original colored",
+          "name": "Sass"
+        },
+        {
+          "class": "devicon-npm-original-wordmark colored",
+          "name": "NPM"
+        },
+        {
+          "class": "devicon-androidstudio-plain colored",
+          "name": "Android Studio"
+        },
+        {
+          "class": "devicon-vscode-plain colored ",
+          "name": "VS Code"
+        }
+        ]
+
+      },
+      {
+        "title": "Multiplayer Bingo Game",
+        "startDate": "2017",
+        "description": "Introducing an exciting multiplayer bingo game! 🎮🎲 Created using C++, this game incorporates OOP concepts, efficient algorithms and allows multiple players to join in the fun. Enjoy the classic game of bingo without the need for Wi-Fi or Bluetooth. Gather your friends and start playing! 🌟🎉",
+        "thumbnail": "images/portfolio/bingo/bingo_ani.gif",
+        "images": [
+          
+          "images/portfolio/bingo/images/bin_demo 1.gif",
+          "images/portfolio/bingo/images/bin_demo 2.jpeg",
+          "images/portfolio/bingo/images/bin_demo 3.jpeg"
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/C-plus-plus/blob/master/BINGO_PRJ.cpp",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain colored",
+            "name": "C++"
+          },
+          {
+            "class":"images/portfolio/bingo/logos/oops.png",
+            "name": "Object oriented Programming"
+          },
+          {
+            "class": "images/portfolio/bingo/logos/alg.png",
+            "name": "Algorithms"
+          },
+          {
+            "class": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+            "name": "Linux",
+            "class_bac":"devicon-linux-plain colored"
+          },
+          {
+            "class": "devicon-ubuntu-plain colored",
+            "name": "Ubuntu"
+          }
+          
+        ]
+
+      },
+      {
+        "title": "CRUD Web Application",
+        "startDate": "2019",
+        "description": "Introducing my CRUD app! 📝💻 Built with the powerful MEAN stack, it showcases HTTP operations through a RESTful API. Experience seamless Create, Read, Update, and Delete functionality, demonstrating the power of full-stack development. 🌐",
+        "thumbnail": "images/portfolio/crud app/crud_ani.gif",
+        "images": [
+          
+          "images/portfolio/crud app/images/crud_demo.gif"
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/MEAN-stack",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain colored",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-nodejs-plain colored",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-mongodb-plain colored",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "ExpressJS"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+          
+        ]
+
+      },
+      {
+        "title": "Grocery List Mobile Application",
+        "startDate": "2019",
+        "description": "Introducing my Grocery List app! 🛒📱 Designed to make shopping a breeze, it lets users store and manage their grocery lists with ease. Check off items as you shop and stay organized effortlessly. Simplify your grocery shopping experience! 🍎🥦",
+        "thumbnail": "images/portfolio/oye/oye_ani.gif",
+        "images": [
+          
+          "images/portfolio/oye/images/oye 1.png",
+          "images/portfolio/oye/images/oye 2.png",
+          "images/portfolio/oye/images/oye 3.png",
+          "images/portfolio/oye/images/oye 4.png" 
+        ],
+        "url": "https://github.com/ChetanRaj0428-1998/Mobile-Development/tree/master/Mobile-Development/grocery",
+        "technologies": [
+          {
+            "class": "devicon-ionic-original colored",
+            "name": "Ionic"
+          },
+          {
+            "class": "devicon-angularjs-plain colored",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain colored",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain colored",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain colored",
+            "name": "CSS"
+          }
+        ]
+
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Central Missouri",
+        "title": "Master's Computer Science",
+        "years": "08.2021 - 12.2022",
+        "mainTech": [
+          "1 Year 5 Months"
+        ],
+        "technologies": [
+          "AWS",
+          "GraphQL",
+          "PHP",
+          "Advanced database Systems",
+          "Advanced Java"
+        ],
+        "logo": "images/ucm.webp",
+        "icon": "fas fa-user-graduate",
+        "country":"images/country/usa.png"
+      },
+      {
+        "company": "OSOS",
+        "title": "Software Developer",
+        "years": "12.2019 - 02.2021",
+        "mainTech": [
+          "1 year 2 months"
+        ],
+        "technologies": [
+          "Java",
+          "Spring",
+          "Microservices",
+          "AWS",
+          "RESTful API",
+          "Docker",
+          "React",
+          "MongoDB",
+          "NodeJS"
+        ],
+        "logo": "images/osos.png",
+        "icon": "far fa-id-card",
+        "country":"images/country/india.png"
+      },
+      {
+        "company": "Matrusri Engineering College",
+        "title": "Bachelor's Computer Science",
+        "years": "07.2016 - 20.2020",
+        "mainTech": [
+          "4+ Years"
+        ],
+        "technologies": [
+          "C++",
+          "Object Oriented Programming",
+          "Data Structures",
+          "Algorithms",
+          "Software Engineering"
+        ],
+        "logo": "images/mecs.png",
+        "icon": "fas fa-user-graduate",
+        "country":"images/country/india.png"
+      },
+      {
+        "company": "Ridhan Tech",
+        "title": "Software Developer Intern",
+        "years": "07.2019 - 08.2019",
+        "mainTech": [
+          "2 months"
+        ],
+        "technologies": [
+          "Angular",
+          "Ionic",
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "TypeScript"
+        ],
+        "logo": "images/ridhan.png",
+        "icon": "far fa-id-card",
+        "country":"images/country/india.png"
+      }
+    ]
+  }

@@ -1,0 +1,168 @@
+{
+    "basic_info": {
+      "name": "Chetan Raj",
+      "titles": [ "Front-end Developer", "Back-end Developer", "Full Stack Developer", "Mobile App Developer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/ChetanRaj0428-1998",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/chetan-raj-58703b27a/",
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "gmail",
+          "url": "mailto:chetanraj0428@gmail.com",
+          "class": "fas fa-envelope"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "TypeScript",
+          "class": "devicon-typescript-plain colored",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original colored",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain colored",
+          "level": "60"
+        }
+      ],
+      "icons2": [
+        {
+          "name": "Ionic",
+          "class": "devicon-ionic-original colored",
+          "level": "95"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-original ",
+          "level": "90"
+        },
+        {
+          "name": "Windows",
+          "class": "devicon-windows8-original colored",
+          "level": "70"
+        },
+        {
+          "name": "Linux",
+          "class": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
+          "level": "75"
+        },
+        {
+          "name": "Arduino",
+          "class": "devicon-arduino-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "60"
+        }
+      ]
+      ,
+      "icons3": [
+        {
+          "name": "Java",
+          "class": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+          "level": "95"
+        },
+        {
+          "name": "Tomcat",
+          "class": "devicon-tomcat-line colored",
+          "level": "95"
+        },
+        {
+          "name": "Spring",
+          "class": "devicon-spring-plain colored",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored ",
+          "level": "90"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain colored",
+          "level": "70"
+        },
+        {
+          "name": "NPM",
+          "class": "devicon-npm-original-wordmark colored ",
+          "level": "75"
+        },
+        {
+          "name": "MaterialUI",
+          "class": "devicon-materialui-plain colored",
+          "level": "85"
+        },
+        {
+          "name": "Jira",
+          "class": "devicon-jira-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Electron",
+          "class": "devicon-electron-original colored",
+          "level": "60"
+        }
+      ]
+    }
+  }
