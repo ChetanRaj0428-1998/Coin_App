@@ -20,7 +20,7 @@ at GitHub. Check live preview(link below).
 
 Check live demonstration <a href="https://chetanraj0428-1998.github.io/Portfolio_FullStack/"><strong>here</strong></a>
 
-<img width="100%" src="https://github.com/ChetanRaj0428-1998/Portfolio_FullStack/blob/images/images/react_portfolio_about.png" alt="react frontend dev portfolio preview"/>
+<img width="100%" src="long.png" alt="react frontend dev portfolio preview"/>
 
 <h3>:books: Getting started</h3>
 
