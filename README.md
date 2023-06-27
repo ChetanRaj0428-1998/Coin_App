@@ -16,7 +16,7 @@ at GitHub. Check live preview(link below).
 
 <br/>
 
-<h3>:eye_speech_bubble: Live demo</h3>
+<h3>:eye_speech_bubble:👉👉 Live demo 👈👈</h3>
 
 Check live demonstration <a href="https://chetanraj0428-1998.github.io/Portfolio_FullStack/"><strong>here</strong></a>
 
@@ -31,8 +31,8 @@ Check live demonstration <a href="https://chetanraj0428-1998.github.io/Portfolio
 ```
 // package.json
 {
-  "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",   <-- remove/edit this
+  "name": "react-dev-portfolio",
+  "homepage": "https://chetanraj0428-1998.github.io/Portfolio_FullSttack/",   <-- remove/edit this
   "version": "0.1.0",
   "private": true,
   "dependencies": {
