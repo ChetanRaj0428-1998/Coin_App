@@ -1,6 +1,4 @@
-
-</head>
-<img width="60%" align="center" src="test.png" alt="portfolio template mockup"   style= "style.scss"/> <br/>
+<img width="60%"  src="test.png" alt="portfolio template mockup"   style= "margin-left:120px;"/> <br/>
 <img height="350px" align="right" src="vid.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
