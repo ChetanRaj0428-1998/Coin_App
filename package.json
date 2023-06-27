@@ -1,8 +1,7 @@
 {
   "name": "react-frontend-dev-portfolio",
   "version": "0.1.0",
-  "homepage": "https://github.com/ChetanRaj0428-1998/",
-  "private": true,
+    "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
