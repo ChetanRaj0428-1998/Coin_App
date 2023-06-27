@@ -1,3 +1,10 @@
+<head>
+<style>
+  /* Add the raw GitHub URL for your CSS file */
+  @import url('https://raw.githubusercontent.com/chetanraj0428-1998/Portfolio_FullStack/styles.css');
+</style>
+
+</head>
 <img width="60%" align="center" src="test.png" alt="portfolio template mockup"   style= "style.scss"/> <br/>
 <img height="350px" align="right" src="vid.gif" alt="portfolio mobile demo gif"/>
 
