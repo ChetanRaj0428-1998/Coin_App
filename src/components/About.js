@@ -72,7 +72,7 @@ class About extends Component {
               "👋 Hey there, awesome visitors! Welcome to my little corner of the internet!
               <br />
               <br />
-              Welcome to my portfolio website! I'm Chetan, a <strong>Computer Science graduate</strong> with both a <strong>Masters</strong> and <strong>Bachelors degree</strong>. With a strong passion for <strong>application development</strong>, I specialize in crafting software solutions for <strong>desktop</strong>, <strong>web</strong>, and <strong>mobile</strong> platforms. Over the years, I've had the opportunity to work on diverse projects that demonstrate my expertise and skills. 
+              Welcome to my portfolio website! I'm Chetan, a <strong>Computer Science graduate</strong> with both a <strong>Masters</strong> and <strong>Bachelors degree</strong>. With a strong passion for<strong>application development</strong>, I specialize in crafting software solutions for <strong>desktop</strong>, <strong>web</strong>, and <strong>mobile</strong> platforms. Over the years, I've had the opportunity to work on diverse projects that demonstrate my expertise and skills. 
               <br />
               <br />
               With <strong>1+ years of industry experience</strong> and a solid coding and development background spanning <strong>5+ years</strong>, I am ready to create innovative solutions and bring your ideas to life. If you're interested in hiring me or have an exciting offer, please feel free to reach out to me through my social media channels. Let's connect and collaborate on something amazing together!
