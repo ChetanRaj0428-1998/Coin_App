@@ -2,7 +2,7 @@
 <img height="350px" align="right" src="vid.gif" alt="portfolio mobile demo gif"/>
 
 <img align="left" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/react.svg" height="50" alt="react icon"/>
-<h2>Portfolio Template</h2>
+<h2>My Portfolio Using React </h2>
 
 <pre>
 ⭐ Easy to adapt and deploy portfolio project covering most important 
