@@ -63,4 +63,3 @@ homepage property or json data won't load.
 <a href="https://tholman.com/github-corners/">GitHub Ref Corner</a>
 </details>
 <details>
-<summary>[ 29/30.11.2020, contributor: <a href="https://github.com/trolit">@trolit</a> ]</summary>
