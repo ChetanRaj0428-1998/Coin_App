@@ -20,7 +20,7 @@ class Header extends Component {
     var dataThemeAttribute = "data-theme";
     var body = document.body;
     var newTheme =
-      body.getAttribute(dataThemeAttribute) === "light" ? "dark" : "light";
+      body.getAttribute(dataThemeAttribute) === "dark" ? "light" : "dark";
     body.setAttribute(dataThemeAttribute, newTheme);
   }
 

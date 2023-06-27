@@ -17,7 +17,7 @@ at GitHub. Check live preview(link below).
 
 <h3>:eye_speech_bubble: Live demo </h3>
 
-Check live demonstration <a href="https://chetanraj0428-1998.github.io/Portfolio_FullStack/"><strong>👉👉here👈👈</strong></a>
+Check live demonstration <a href="https://chetanraj0428-1998.github.io/Portfolio_FullStack/" target="_blank"><strong>👉👉here👈👈</strong></a>
 
 <img width="100%" src="long.png" alt="react frontend dev portfolio preview"/>
 
